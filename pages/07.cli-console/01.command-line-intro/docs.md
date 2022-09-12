@@ -30,7 +30,7 @@ The vast majority of Linux (and Unix) distros out there have one big thing in co
 
 After all, it's powerful. You can do pretty much anything you could with the GUI directly into the command line, often with more control over how the commands are carried out. Here are some excellent resources to help you get familiar with the Terminal in Linux:
 
-* [TechSpot's Beginner's Guide to the Linux Command Line](http://www.techspot.com/guides/835-linux-command-line-basics/) - An excellent beginner's guide to the command line.
+* [TechSpot's Beginner's Guide to the Linux Command Line](http://www.techspot.com/guides/835-linux-command-line-basics/) - An excellent beginner's [guide](https://wikiguide.tips/)) to the command line.
 * [MakeUseOf's Quick Guide to Getting Started with the Linux Command Line](http://www.makeuseof.com/tag/a-quick-guide-to-get-started-with-the-linux-command-line/) - Another great resource for learning about the Terminal.
 * [O'Reilly Linux DevCenter Directory of Linux Commands](http://www.linuxdevcenter.com/cmd/) - An index of commands available in the Terminal.
 * [Ryan's Tutorials Linux Tutorial](http://ryanstutorials.net/linuxtutorial/) - An excellent all-in-one guide to Linux and the Bash command line interface (Terminal).
